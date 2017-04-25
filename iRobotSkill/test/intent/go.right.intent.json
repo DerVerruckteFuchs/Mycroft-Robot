@@ -1,0 +1,8 @@
+{
+  "utterance": "go right",
+  "intent_type": "GoRightIntent",
+  "intent": {
+	  "GoRightKeyword": "go right"
+  }
+
+}

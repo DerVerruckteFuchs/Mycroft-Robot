@@ -1,0 +1,8 @@
+{
+  "utterance": "I'm gonna dance",
+  "intent_type": "DanceIntent",
+  "intent": {
+	"DanceKeyword": "dance"
+  }
+
+}

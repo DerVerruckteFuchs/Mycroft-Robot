@@ -1,0 +1,8 @@
+{
+  "utterance": "go backward",
+  "intent_type": "GoBackwardIntent",
+  "intent": {
+	  "GoBackwardKeyword": "go backward"
+  }
+
+}

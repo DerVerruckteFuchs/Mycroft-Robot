@@ -1,0 +1,8 @@
+{
+  "utterance": "go forward",
+  "intent_type": "GoForwardIntent",
+  "intent": {
+	  "GoForwardKeyword": "go forward"
+  }
+
+}
